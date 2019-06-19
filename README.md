@@ -1,2 +1,3 @@
 # Desenvolvedor-Android-
 Oportunidade para atuação em projeto junto à empresa multinacional da área de telefonia móvel, em contato frequente com times no exterior para execução das seguintes atividades: Desenvolvimento de novas funcionalidades para um aplicativo Android relacionado à área de experiência de uso do celular envolvendo utilização dos sensores do smartphone para identificação de gestos; Prototipação e validação de funcionalidades. Revisão de código. Correção de bugs e adaptação de funcionalidades as novas versões de Android.
+Interessados, podem se inscrever pelo link: https://www.eldorado.org.br/project/DesenvolvedorAndroid_87/ 
